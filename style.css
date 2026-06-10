@@ -1,13 +1,13 @@
 /* button text */
 
-p {
+body {
   text-align: center;
   font-size: 6px;
   background-color: hsl(42, 39, 94);
   cursor: pointer;
 }
 
-p:focus {
+body:focus {
   outline: 2px solid #1a1a1a;
   outline-offset: 2px;
 }
